@@ -174,6 +174,7 @@
 
 73. Zatch bell
 
-74. Zetman
+
+ 
 
 ***
